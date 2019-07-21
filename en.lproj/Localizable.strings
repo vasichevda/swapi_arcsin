@@ -1,0 +1,15 @@
+"search.title" = "Search";
+"search.button.title" = "Search";
+"search.infoLabel.text.firstStart" = "Sorry) It is my first Start";
+"search.infoLabel.text.noResults" = "No results";
+
+"favorite.title" = "History of search";
+
+"detail.title" = "Detail Info";
+"detail.cell.description.height" = "height";
+"detail.cell.description.mass" = "mass";
+"detail.cell.description.hairColor" = "hairColor";
+"detail.cell.description.skinColor" = "skinColor";
+"detail.cell.description.eyeColor" = "eyeColor";
+"detail.cell.description.birthYear" = "birthYear";
+"detail.cell.description.gender" = "sex";
