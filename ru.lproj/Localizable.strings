@@ -1,0 +1,15 @@
+"search.title" = "Поиск";
+"search.button.title" = "Искать";
+"search.infoLabel.text.firstStart" = "Это мой первый запуск.\nПожалуйста, подождите...";
+"search.infoLabel.text.noResults" = "Думаю, такого персонажа нет";
+
+"favorite.title" = "История успешных запросов";
+
+"detail.title" = "Детальная информация";
+"detail.cell.description.height" = "рост";
+"detail.cell.description.mass" = "вес";
+"detail.cell.description.hairColor" = "цвет волос";
+"detail.cell.description.skinColor" = "цвет кожи";
+"detail.cell.description.eyeColor" = "цвет глаз";
+"detail.cell.description.birthYear" = "год рождения";
+"detail.cell.description.gender" = "пол";

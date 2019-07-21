@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Pods"
+      name = "Pods">
+      <FileRef
+         location = "group:Pods.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:Alamofire"
+         name = "Alamofire">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:TaskDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:MultipartFormData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:NetworkReachabilityManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Timeline.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DispatchQueue+Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Result.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ParameterEncoding.swift">
+            </FileRef>
+            <FileRef
+               location = "group:AFError.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Validation.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Notifications.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Response.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Request.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ResponseSerialization.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ServerTrustPolicy.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionDelegate.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Target Support Files"
+         name = "Target Support Files">
+         <Group
+            location = "group:Alamofire"
+            name = "Alamofire">
+            <FileRef
+               location = "group:Alamofire-Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-prefix.pch">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Pods-swapi"
+            name = "Pods-swapi">
+            <FileRef
+               location = "group:Pods-swapi.release.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-frameworks-Debug-output-files.xcfilelist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-frameworks-Release-input-files.xcfilelist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-acknowledgements.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-frameworks-Release-output-files.xcfilelist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-frameworks.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi.debug.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-frameworks-Debug-input-files.xcfilelist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-swapi-acknowledgements.markdown">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Manifest.lock">
+      </FileRef>
+      <Group
+         location = "group:Local Podspecs"
+         name = "Local Podspecs">
+      </Group>
+      <Group
+         location = "group:Headers"
+         name = "Headers">
+      </Group>
+      <FileRef
+         location = "group:receipt 13.25.48.html">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
